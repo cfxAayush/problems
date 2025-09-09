@@ -18,7 +18,9 @@ class amazon{
             i++;
         }
     }
-     
+//hey  i am here
+
+       
     for(int index = 0; index< arr.length; index++){
         if(arr[index] != index){
             return index;
